@@ -1,6 +1,6 @@
 Adoption of https://github.com/ricab/scope_guard/ for ESP-IDF.
 
-##TL;DR
+## TL;DR
 ```c++
 #include <sope_guard.h>
 ...
