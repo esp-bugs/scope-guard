@@ -1,0 +1,9 @@
+description: general, simple, and fast C++11 scope guard that defends against implicitly ignored returns, all in a SFINAE-friendly maner.
+
+url: https://github.com/esp-bugs/scope_guard
+issues: https://github.com/esp-bugs/scope_guard/issues
+documentation: https://github.com/esp-bugs/scope_guard
+repository: https://github.com/esp-bugs/scope_guard.git
+
+dependencies:
+  idf: ">=5.1.0"
